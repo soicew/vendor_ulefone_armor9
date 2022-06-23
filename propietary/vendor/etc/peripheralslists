@@ -1,0 +1,35 @@
+This SW Support Peripherals Lists As Follow :;
+Gsensor Lists :;
+bmi160 (2021-01-18 13:04:37);
+
+Msensor Lists :;
+qmc7983 (2021-01-18 13:04:37);
+
+Gyrsensor Lists :;
+bmi160 (2021-01-18 13:04:37);
+
+ALS/PS Lists :;
+vcnl36832 (2021-01-18 13:04:37);
+
+Lcd Lists :;
+FT8719_BX630010 (2021-01-18 12:42:28);
+FT8719_EQT630ARF003G (2021-01-18 12:42:28);
+
+TouchPanel Lists :;
+FOCALTECH_TS (2021-01-18 12:42:11);
+
+Carmera Lists :;
+s5kgw1sp_mipi_raw ();
+imx134_mipi_raw ();
+gc5035_mipi_raw ();
+ov8858_mipi_raw ();
+
+Carmera Version Lists :;
+s5kgw1sp_mipi_raw@OFG_NJ511_v00 (2021-03-03 14:56:01); imx134_mipi_raw@WX_7497N_v00 (2021-01-18 12:42:22); gc5035_mipi_raw@WX_7498G_v00 (2021-01-18 12:42:21); ov8858_mipi_raw@YL_GQ3086_v00 (2021-01-18 12:42:22); ;
+
+Memory Lists :;
+KM2V7001CM_B706 (2021-01-18-12:56:00);
+KM8V7001JM_B810 (2021-01-18-12:56:00);
+H9HQ22AECMMDAR (2021-01-18-12:56:00);
+H9HQ16AFAMMDAR (2021-01-18-12:56:00);
+H9HQ15AFAMADAR (2021-01-18-12:56:00);
